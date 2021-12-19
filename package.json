@@ -1,0 +1,23 @@
+{
+  "name": "taskapplication-node",
+  "version": "1.0.0",
+  "description": "Node.js taskApplication with MongoDB",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hariomgola/taskApplication-node.js.git"
+  },
+  "author": "hariom gola",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hariomgola/taskApplication-node.js/issues"
+  },
+  "homepage": "https://github.com/hariomgola/taskApplication-node.js#readme",
+  "dependencies": {
+    "chalk": "^4.1.1",
+    "mongodb": "^4.0.1"
+  }
+}
